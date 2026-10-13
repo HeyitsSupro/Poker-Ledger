@@ -24,7 +24,7 @@
 | 100   | 3     | -17.5    | hostel         |           |
 | 100   | 1     | +231.5   | hostel         |           |
 | 100   | 1     | +3.37    | hostel         | Jul 2026  |
-#Jul 2026
+# Jul 2026
 | 100   | 1     | -100     | hostel         |           |
 | 50    | 1     | +150     | home           |           |
 | 50    | 1     | +32      | home           |           |
@@ -35,7 +35,7 @@
 | 100   | 1     | +173     | hostel online  |           |
 | 50    | 1     | -21.75   | home           |           |
 | 50    | 3     | -97.5    | home           | Aug 2026  |
-#aug 2026
+# Aug 2026
 | 50    | 1     | -8.5     | home           |           |
 | 50    | 3     | -105     | home           |           |
 | 50    | 1     | +3       | home           |           |
@@ -56,7 +56,7 @@
 | 100   | 1     | +242.4   | hostel online  |           |
 | 100   | 2     | +132.21  | hostel online  |           |
 | 100   | 1     | -51.14   | hostel online  | Sept 2026 |
-Sep 2026
+# Sep 2026
 | 100   | 4     | +73.54   | hostel online  |           |
 | 100   | 8     | -697     | hostel online  |           |
 | 100   | 1     | +321.5   | hostel online  |           |
