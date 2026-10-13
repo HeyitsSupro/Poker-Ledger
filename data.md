@@ -56,7 +56,7 @@
 | 100   | 1     | +242.4   | hostel online  |           |
 | 100   | 2     | +132.21  | hostel online  |           |
 | 100   | 1     | -51.14   | hostel online  | Sept 2026 |
-Sept 2026
+Sep 2026
 | 100   | 4     | +73.54   | hostel online  |           |
 | 100   | 8     | -697     | hostel online  |           |
 | 100   | 1     | +321.5   | hostel online  |           |
