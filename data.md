@@ -75,7 +75,7 @@
 | 50    | 1     | +140.75  | home           |           |
 | 50    | 1     | +89.37   | BSDS online    |           |
 | 50    | 3     | -150     | BSDS online    | Oct 2026  |
-#oct 2026
+# Oct 2026
 | 50    | 2     | -41.77   | BSDS online    |           |
 | 50    | 1     | +266.33  | BSDS online    |           |
 | 100   | 1     | +236.30  | hostel online  |           |
