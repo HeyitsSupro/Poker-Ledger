@@ -8,7 +8,7 @@
 
 | Buyin | Count | PnL      | Notes          | Date      |
 | ----- | ----- | -------- | -------------- | --------- |
-| 100   | 2     | -200     | ISI Tournament | Feb 2026  |
+| 100   | 2     | -200     | ISI Tournament | Feb 2025  |
 | 100   | 1     | -100     | hostel         | Apr 2026  |
 # apr 2026
 | 100   | 2     | +11      | ISI Tournament |           |
