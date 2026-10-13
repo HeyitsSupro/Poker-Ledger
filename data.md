@@ -8,9 +8,7 @@
 
 | Buyin | Count | PnL      | Notes          | Date |
 | ----- | ----- | -------- | -------------- | ---- |
-
 ## 2025-7
-
 | 100   | 2     | -200     | ISI Tournament |      |
 | 100   | 1     | -100     | hostel         |      |
 | 100   | 2     | +11      | ISI Tournament |      |
