@@ -28,7 +28,7 @@
 | 100   | 1     | -100     | hostel         |           |
 | 50    | 1     | +150     | Flatmates      |           |
 | 50    | 1     | +32      | Flatmates      |           |
-| 50    | 2     | +22.5    | home           |           |
+| 50    | 2     | +22.5    | Flatmates      |           |
 | 100   | 3     | -300     | hostel online  |           |
 | 100   | 3     | -59      | hostel online  |           |
 | 100   | 5     | -75      | hostel online  |           |
