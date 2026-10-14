@@ -1,22 +1,22 @@
-# Poker log
-
-> Paste new rows at the bottom of the table, e.g. `| 100 | 1 | -100 | hostel |`.
-> Rows are numbered in file order, so the order here is the game order.
-> Dates are optional: add a month or day in the last column (2026-10 or 2026-10-14),
-> or put a heading like `## 2026-10` above a batch of rows to date all of them.
-> Rows with no date still count in Lifetime and show up under "Undated".
+# ♠ Poker log
+ 
+> Source data for **Poker Stats** (`index.html`). The site reads this file every time it loads.
+ 
+**Add a session:** paste a row at the bottom of the table, e.g. `| 100 | 1 | -100 | hostel |`.
+ 
+**Columns:** `Buyin` · `Count` · `PnL` · `Notes` (venue) · `Date` (optional)
+ 
+**Dates:** put a month (`2026-04`) on the first session of that month. Every row below it counts as that month until the next row that has a date. Rows above the first dated row stay undated.
 
 | Buyin | Count | PnL      | Notes          | Date      |
 | ----- | ----- | -------- | -------------- | --------- |
 | 100   | 2     | -200     | ISI Tournament | Feb 2025  |
 | 100   | 1     | -100     | hostel         | Apr 2026  |
-# apr 2026
 | 100   | 2     | +11      | ISI Tournament |           |
 | 100   | 1     | -100     | hostel         |           |
 | 100   | 1     | +89      | hostel         |           |
 | 50    | 1     | +100     | BSDS           |           |
 | 50    | 1     | -36      | Flatmates      | May 2026  |
-# May 2026
 | 100   | 2     | -112     | hostel         |           |
 | 50    | 2     | +50      | Flatmates      |           |
 | 100   | 1     | +10      | hostel         |           |
@@ -24,7 +24,6 @@
 | 100   | 3     | -17.5    | hostel         |           |
 | 100   | 1     | +231.5   | hostel         |           |
 | 100   | 1     | +3.37    | hostel         | Jul 2026  |
-# Jul 2026
 | 100   | 1     | -100     | hostel         |           |
 | 50    | 1     | +150     | Flatmates      |           |
 | 50    | 1     | +32      | Flatmates      |           |
@@ -35,7 +34,6 @@
 | 100   | 1     | +173     | hostel online  |           |
 | 50    | 1     | -21.75   | Flatmates      |           |
 | 50    | 3     | -97.5    | Flatmates      | Aug 2026  |
-# Aug 2026
 | 50    | 1     | -8.5     | Flatmates      |           |
 | 50    | 3     | -105     | Flatmates      |           |
 | 50    | 1     | +3       | Flatmates      |           |
@@ -56,7 +54,6 @@
 | 100   | 1     | +242.4   | hostel online  |           |
 | 100   | 2     | +132.21  | hostel online  |           |
 | 100   | 1     | -51.14   | hostel online  | Sept 2026 |
-# Sep 2026
 | 100   | 4     | +73.54   | hostel online  |           |
 | 100   | 8     | -697     | hostel online  |           |
 | 100   | 1     | +321.5   | hostel online  |           |
@@ -65,7 +62,7 @@
 | 50    | 1     | +118.07  | BSDS online    |           |
 | 50    | 2     | +96.73   | BSDS           |           |
 | 100   | 2     | +78.72   | hostel online  |           |
-| 100   | 3     | -32.83   | hostel online |           |
+| 100   | 3     | -32.83   | hostel online  |           |
 | 50    | 4     | +57.97   | BSDS online    |           |
 | 100   | 2     | -6.93    | hostel online  |           |
 | 100   | 2     | +396.44  | hostel online  |           |
@@ -75,7 +72,6 @@
 | 50    | 1     | +140.75  | Flatmates      |           |
 | 50    | 1     | +89.37   | BSDS online    |           |
 | 50    | 3     | -150     | BSDS online    | Oct 2026  |
-# Oct 2026
 | 50    | 2     | -41.77   | BSDS online    |           |
 | 50    | 1     | +266.33  | BSDS online    |           |
 | 100   | 1     | +236.30  | hostel online  |           |
