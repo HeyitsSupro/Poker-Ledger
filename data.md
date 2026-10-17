@@ -88,4 +88,8 @@
 | 50    | 5     | +6.97    | BSDS online    |           |
 | 50    | 1     | -50      | BSDS online    |           |
 | 100   | 7     | -700     | hostel online  |           |
+| 100   | 1     | +209.09  | hostel online  |           |
+| 100   | 1     | +115.17  | BSDS online    |           |
+
+
 
